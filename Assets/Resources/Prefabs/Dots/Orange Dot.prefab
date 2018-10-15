@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4892352238598474}
   - component: {fileID: 212689551674333364}
   - component: {fileID: 58129924806264550}
-  - component: {fileID: 114603129089748102}
+  - component: {fileID: 114765161383383164}
   m_Layer: 0
   m_Name: Orange Dot
   m_TagString: Orange Dot
@@ -57,7 +57,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.33333334
---- !u!114 &114603129089748102
+--- !u!114 &114765161383383164
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -65,7 +65,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1223371761558328}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2cdeebb89471d469090d9f248fe9bd78, type: 3}
+  m_Script: {fileID: 11500000, guid: 6d09696a1cfc62d44a54b629e42efdd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   column: 0

@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4368119458992854}
   - component: {fileID: 212614905987303458}
   - component: {fileID: 58059929437009500}
-  - component: {fileID: 114190455801725654}
+  - component: {fileID: 114299759352038380}
   m_Layer: 0
   m_Name: Indigo Dot
   m_TagString: Indigo Dot
@@ -57,7 +57,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.33333334
---- !u!114 &114190455801725654
+--- !u!114 &114299759352038380
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -65,7 +65,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1987821457856374}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2cdeebb89471d469090d9f248fe9bd78, type: 3}
+  m_Script: {fileID: 11500000, guid: 6d09696a1cfc62d44a54b629e42efdd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   column: 0

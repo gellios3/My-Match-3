@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4957749424783604}
   - component: {fileID: 212730164647581272}
   - component: {fileID: 58349058011101760}
-  - component: {fileID: 114720634326128820}
+  - component: {fileID: 114893265199615076}
   m_Layer: 0
   m_Name: Green Dot
   m_TagString: Green Dot
@@ -57,7 +57,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.33333334
---- !u!114 &114720634326128820
+--- !u!114 &114893265199615076
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -65,7 +65,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1200374735526922}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2cdeebb89471d469090d9f248fe9bd78, type: 3}
+  m_Script: {fileID: 11500000, guid: 6d09696a1cfc62d44a54b629e42efdd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   column: 0

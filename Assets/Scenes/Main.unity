@@ -125,7 +125,7 @@ GameObject:
   m_Layer: 0
   m_Name: Board
   m_TagString: Untagged
-  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -141,8 +141,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 1
-  width: 8
-  height: 8
+  width: 4
+  height: 4
   offSet: 20
   tilePrefab: {fileID: 1170864395725264, guid: 95b01ab1c25c1442ea9585d69f994d33, type: 2}
   dots:
@@ -267,7 +267,7 @@ GameObject:
   m_Layer: 0
   m_Name: Match Finder
   m_TagString: Untagged
-  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -295,4 +295,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7769b02d60f59064cbae7969b51b96ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentMatches: []

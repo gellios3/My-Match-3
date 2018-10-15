@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4085241166200800}
   - component: {fileID: 212477522217748434}
   - component: {fileID: 58920519413446132}
-  - component: {fileID: 114487305266653530}
+  - component: {fileID: 114293364186327876}
   m_Layer: 0
   m_Name: Red Dot
   m_TagString: Red Dot
@@ -57,7 +57,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.33333334
---- !u!114 &114487305266653530
+--- !u!114 &114293364186327876
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -65,7 +65,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1954689237764068}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2cdeebb89471d469090d9f248fe9bd78, type: 3}
+  m_Script: {fileID: 11500000, guid: 6d09696a1cfc62d44a54b629e42efdd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   column: 0

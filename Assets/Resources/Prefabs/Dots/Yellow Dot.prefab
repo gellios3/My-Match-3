@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4731923310913442}
   - component: {fileID: 212071149696418338}
   - component: {fileID: 58097601374741756}
-  - component: {fileID: 114101236258395636}
+  - component: {fileID: 114090251655277024}
   m_Layer: 0
   m_Name: Yellow Dot
   m_TagString: Yellow Dot
@@ -57,7 +57,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.33333334
---- !u!114 &114101236258395636
+--- !u!114 &114090251655277024
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -65,7 +65,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1032542754878642}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2cdeebb89471d469090d9f248fe9bd78, type: 3}
+  m_Script: {fileID: 11500000, guid: 6d09696a1cfc62d44a54b629e42efdd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   column: 0
